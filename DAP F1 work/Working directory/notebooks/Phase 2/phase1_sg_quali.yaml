@@ -1,0 +1,35 @@
+phase: 1
+name: sg_qualifying_baseline
+
+scope:
+  locations: [Singapore]
+  sessions: [Q]          
+  years: all
+
+target:
+  name: qualifying_position
+  type: regression
+
+features:
+  - year
+  - Sector1Time_s
+  - Sector2Time_s
+  - Sector3Time_s
+  - TyreLife
+  - Driver_id
+  - Team_id
+  - Compound_id
+
+evaluation:
+  strategy: leave_one_year_out
+  metrics: [MAE]
+
+model:
+  type: xgboost
+  params:
+    max_depth: 5
+    learning_rate: 0.1
+    n_estimators: 300
+    objective: reg:squarederror
+
+goal: validate_signal_and_pipeline
