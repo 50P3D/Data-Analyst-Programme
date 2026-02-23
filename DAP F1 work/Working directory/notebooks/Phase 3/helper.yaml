@@ -1,0 +1,101 @@
+run:
+  name: "phase3_quali_loyo_xgb_test2025"
+  phase: 3
+  seed: 42
+  artifacts_dir: "artifacts/phase3"
+
+data:
+  dataset_path: "data/processed/quali_features.parquet"
+  session: "Q"
+  years_available: [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+
+label:
+  target: "quali_position"
+  task: "regression"
+  higher_is_better: false
+  clip:
+    min: 1
+    max: 20
+
+split:
+  strategy: "loyo"
+  eval_year: 2024
+  test_year: 2025
+  group_keys:
+    - year
+    - event_name
+
+model:
+  family: "xgboost"
+  task: "regression"
+  baseline_params:
+    booster: "gbtree"
+    objective: "reg:squarederror"
+    eval_metric: "mae"
+
+    # baseline (sane defaults, not tuned)
+    learning_rate: 0.05
+    max_depth: 6
+    min_child_weight: 5
+    subsample: 0.8
+    colsample_bytree: 0.8
+    reg_lambda: 1.0
+    reg_alpha: 0.0
+
+    tree_method: "hist"
+    random_state: 42
+  fit:
+    num_boost_round: 5000
+    early_stopping_rounds: 200
+
+tuning:
+  enabled: false
+  method: "bayesian"
+  n_trials: 60
+  objective_metric: "spearman"
+  search_space:
+    learning_rate:
+      dist: "log_uniform"
+      low: 0.01
+      high: 0.2
+    max_depth:
+      dist: "int_uniform"
+      low: 3
+      high: 10
+    min_child_weight:
+      dist: "log_uniform"
+      low: 1.0
+      high: 50.0
+    subsample:
+      dist: "uniform"
+      low: 0.6
+      high: 1.0
+    colsample_bytree:
+      dist: "uniform"
+      low: 0.6
+      high: 1.0
+    gamma:
+      dist: "log_uniform"
+      low: 0.0001
+      high: 5.0
+    reg_lambda:
+      dist: "log_uniform"
+      low: 0.001
+      high: 50.0
+    reg_alpha:
+      dist: "log_uniform"
+      low: 0.0001
+      high: 10.0
+
+metrics:
+  primary:
+    - spearman
+  secondary:
+    - mae
+    - rmse
+    - top10_hit_rate
+
+logging:
+  save_predictions: true
+  save_feature_importance: true
+  save_best_params: true
