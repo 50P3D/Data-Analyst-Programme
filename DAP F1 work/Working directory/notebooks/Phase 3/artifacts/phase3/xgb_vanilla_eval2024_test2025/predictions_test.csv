@@ -1,0 +1,477 @@
+year,round,event_name,country,location,driver,quali_position,pred_position
+2025,1,Australian Grand Prix,Australia,Melbourne,1,3,5.7665358
+2025,1,Australian Grand Prix,Australia,Melbourne,10,9,2.8489647
+2025,1,Australian Grand Prix,Australia,Melbourne,12,16,13.901575
+2025,1,Australian Grand Prix,Australia,Melbourne,14,12,6.730963
+2025,1,Australian Grand Prix,Australia,Melbourne,16,7,4.7164326
+2025,1,Australian Grand Prix,Australia,Melbourne,18,13,7.4253497
+2025,1,Australian Grand Prix,Australia,Melbourne,22,5,6.4051356
+2025,1,Australian Grand Prix,Australia,Melbourne,23,6,2.3071892
+2025,1,Australian Grand Prix,Australia,Melbourne,27,17,13.865674
+2025,1,Australian Grand Prix,Australia,Melbourne,30,18,14.894064
+2025,1,Australian Grand Prix,Australia,Melbourne,31,19,16.652842
+2025,1,Australian Grand Prix,Australia,Melbourne,4,1,3.4858906
+2025,1,Australian Grand Prix,Australia,Melbourne,44,8,2.4280477
+2025,1,Australian Grand Prix,Australia,Melbourne,5,15,8.199386
+2025,1,Australian Grand Prix,Australia,Melbourne,55,10,2.6046581
+2025,1,Australian Grand Prix,Australia,Melbourne,6,11,7.2714214
+2025,1,Australian Grand Prix,Australia,Melbourne,63,4,6.7967243
+2025,1,Australian Grand Prix,Australia,Melbourne,7,14,6.7477937
+2025,1,Australian Grand Prix,Australia,Melbourne,81,2,6.659491
+2025,2,Chinese Grand Prix,China,Shanghai,1,4,6.883954
+2025,2,Chinese Grand Prix,China,Shanghai,10,16,15.667496
+2025,2,Chinese Grand Prix,China,Shanghai,12,8,7.142224
+2025,2,Chinese Grand Prix,China,Shanghai,14,13,7.592271
+2025,2,Chinese Grand Prix,China,Shanghai,16,6,4.4746118
+2025,2,Chinese Grand Prix,China,Shanghai,18,14,7.342881
+2025,2,Chinese Grand Prix,China,Shanghai,22,9,4.6369414
+2025,2,Chinese Grand Prix,China,Shanghai,23,10,5.7786417
+2025,2,Chinese Grand Prix,China,Shanghai,27,12,4.756892
+2025,2,Chinese Grand Prix,China,Shanghai,30,20,11.89193
+2025,2,Chinese Grand Prix,China,Shanghai,31,11,6.1931925
+2025,2,Chinese Grand Prix,China,Shanghai,4,3,5.109793
+2025,2,Chinese Grand Prix,China,Shanghai,44,5,3.7858307
+2025,2,Chinese Grand Prix,China,Shanghai,5,19,15.262807
+2025,2,Chinese Grand Prix,China,Shanghai,55,15,7.156342
+2025,2,Chinese Grand Prix,China,Shanghai,6,7,3.826755
+2025,2,Chinese Grand Prix,China,Shanghai,63,2,5.340844
+2025,2,Chinese Grand Prix,China,Shanghai,7,18,16.252415
+2025,2,Chinese Grand Prix,China,Shanghai,81,1,4.550822
+2025,2,Chinese Grand Prix,China,Shanghai,87,17,15.59175
+2025,3,Japanese Grand Prix,Japan,Suzuka,1,1,7.2142854
+2025,3,Japanese Grand Prix,Japan,Suzuka,10,11,6.9294004
+2025,3,Japanese Grand Prix,Japan,Suzuka,12,6,5.37927
+2025,3,Japanese Grand Prix,Japan,Suzuka,14,13,4.025259
+2025,3,Japanese Grand Prix,Japan,Suzuka,16,4,5.3234634
+2025,3,Japanese Grand Prix,Japan,Suzuka,18,20,15.661929
+2025,3,Japanese Grand Prix,Japan,Suzuka,22,15,3.705516
+2025,3,Japanese Grand Prix,Japan,Suzuka,23,9,5.2966595
+2025,3,Japanese Grand Prix,Japan,Suzuka,27,16,4.9948506
+2025,3,Japanese Grand Prix,Japan,Suzuka,30,14,6.5997477
+2025,3,Japanese Grand Prix,Japan,Suzuka,31,18,8.691267
+2025,3,Japanese Grand Prix,Japan,Suzuka,4,2,7.53792
+2025,3,Japanese Grand Prix,Japan,Suzuka,44,8,4.8437076
+2025,3,Japanese Grand Prix,Japan,Suzuka,5,17,4.2172456
+2025,3,Japanese Grand Prix,Japan,Suzuka,55,12,9.725209
+2025,3,Japanese Grand Prix,Japan,Suzuka,6,7,6.0625424
+2025,3,Japanese Grand Prix,Japan,Suzuka,63,5,5.7700367
+2025,3,Japanese Grand Prix,Japan,Suzuka,7,19,11.242446
+2025,3,Japanese Grand Prix,Japan,Suzuka,81,3,6.34561
+2025,3,Japanese Grand Prix,Japan,Suzuka,87,10,5.3908
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,1,7,7.912223
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,10,5,6.386321
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,12,4,6.58251
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,14,13,9.021725
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,16,3,5.6752825
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,18,19,15.793246
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,22,10,7.918369
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,23,15,17.136614
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,27,16,7.9331264
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,30,17,17.025972
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,31,14,17.224833
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,4,6,6.3166175
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,44,9,6.82302
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,5,18,16.965836
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,55,8,6.372469
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,6,12,9.44903
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,63,2,4.7842355
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,7,11,11.852322
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,81,1,5.46691
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,87,20,17.066877
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,1,1,7.4745703
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,10,9,6.629482
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,12,5,8.611215
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,14,13,8.8288765
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,16,4,5.6131425
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,18,16,10.678875
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,22,8,8.24381
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,23,11,9.366297
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,27,18,14.526042
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,30,12,9.879715
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,31,19,17.750603
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,4,10,16.364244
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,44,7,5.854757
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,5,20,15.365842
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,55,6,3.7237628
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,6,14,10.732363
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,63,3,7.9852743
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,7,17,16.290491
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,81,2,8.006226
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,87,15,10.099525
+2025,6,Miami Grand Prix,United States,Miami Gardens,1,1,4.9862747
+2025,6,Miami Grand Prix,United States,Miami Gardens,10,18,14.148539
+2025,6,Miami Grand Prix,United States,Miami Gardens,12,3,7.6445336
+2025,6,Miami Grand Prix,United States,Miami Gardens,14,17,16.82198
+2025,6,Miami Grand Prix,United States,Miami Gardens,16,8,6.600721
+2025,6,Miami Grand Prix,United States,Miami Gardens,18,19,15.910132
+2025,6,Miami Grand Prix,United States,Miami Gardens,22,10,6.600001
+2025,6,Miami Grand Prix,United States,Miami Gardens,23,7,6.457226
+2025,6,Miami Grand Prix,United States,Miami Gardens,27,16,16.971313
+2025,6,Miami Grand Prix,United States,Miami Gardens,30,15,10.402527
+2025,6,Miami Grand Prix,United States,Miami Gardens,31,9,6.8118286
+2025,6,Miami Grand Prix,United States,Miami Gardens,4,2,4.931393
+2025,6,Miami Grand Prix,United States,Miami Gardens,44,12,10.778858
+2025,6,Miami Grand Prix,United States,Miami Gardens,5,13,8.152171
+2025,6,Miami Grand Prix,United States,Miami Gardens,55,6,6.565405
+2025,6,Miami Grand Prix,United States,Miami Gardens,6,11,12.188499
+2025,6,Miami Grand Prix,United States,Miami Gardens,63,5,6.9980693
+2025,6,Miami Grand Prix,United States,Miami Gardens,7,14,10.772443
+2025,6,Miami Grand Prix,United States,Miami Gardens,81,4,9.369917
+2025,6,Miami Grand Prix,United States,Miami Gardens,87,20,17.669655
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,1,2,9.800894
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,10,10,10.572343
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,12,13,13.645473
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,14,5,8.112273
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,16,11,12.885769
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,18,8,9.340984
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,23,7,6.318608
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,27,17,17.945
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,30,16,15.749324
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,31,18,17.235594
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,4,4,5.9086204
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,43,15,18.052217
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,44,12,12.1412115
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,5,14,11.432604
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,55,6,7.015999
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,6,9,9.22855
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,3,7.3238587
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,81,1,6.707085
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,87,19,15.444889
+2025,8,Monaco Grand Prix,Monaco,Monaco,1,5,5.3972125
+2025,8,Monaco Grand Prix,Monaco,Monaco,10,18,15.171597
+2025,8,Monaco Grand Prix,Monaco,Monaco,12,15,15.857007
+2025,8,Monaco Grand Prix,Monaco,Monaco,14,7,4.7699814
+2025,8,Monaco Grand Prix,Monaco,Monaco,16,2,1.5276047
+2025,8,Monaco Grand Prix,Monaco,Monaco,18,19,18.252968
+2025,8,Monaco Grand Prix,Monaco,Monaco,22,12,9.022083
+2025,8,Monaco Grand Prix,Monaco,Monaco,23,10,5.92031
+2025,8,Monaco Grand Prix,Monaco,Monaco,27,13,6.9532886
+2025,8,Monaco Grand Prix,Monaco,Monaco,30,9,5.191177
+2025,8,Monaco Grand Prix,Monaco,Monaco,31,8,3.4401186
+2025,8,Monaco Grand Prix,Monaco,Monaco,4,1,2.1711493
+2025,8,Monaco Grand Prix,Monaco,Monaco,43,20,18.632456
+2025,8,Monaco Grand Prix,Monaco,Monaco,44,4,4.0275297
+2025,8,Monaco Grand Prix,Monaco,Monaco,5,16,13.608201
+2025,8,Monaco Grand Prix,Monaco,Monaco,55,11,5.383635
+2025,8,Monaco Grand Prix,Monaco,Monaco,6,6,5.482069
+2025,8,Monaco Grand Prix,Monaco,Monaco,63,14,11.896928
+2025,8,Monaco Grand Prix,Monaco,Monaco,81,3,3.3472314
+2025,8,Monaco Grand Prix,Monaco,Monaco,87,17,14.331456
+2025,9,Spanish Grand Prix,Spain,Barcelona,1,3,6.853073
+2025,9,Spanish Grand Prix,Spain,Barcelona,10,8,4.9258957
+2025,9,Spanish Grand Prix,Spain,Barcelona,12,6,3.894179
+2025,9,Spanish Grand Prix,Spain,Barcelona,14,10,9.02061
+2025,9,Spanish Grand Prix,Spain,Barcelona,16,7,10.412646
+2025,9,Spanish Grand Prix,Spain,Barcelona,18,14,8.520118
+2025,9,Spanish Grand Prix,Spain,Barcelona,22,20,14.612568
+2025,9,Spanish Grand Prix,Spain,Barcelona,23,11,7.183862
+2025,9,Spanish Grand Prix,Spain,Barcelona,27,16,15.196445
+2025,9,Spanish Grand Prix,Spain,Barcelona,30,13,8.199335
+2025,9,Spanish Grand Prix,Spain,Barcelona,31,17,14.883316
+2025,9,Spanish Grand Prix,Spain,Barcelona,4,2,4.560277
+2025,9,Spanish Grand Prix,Spain,Barcelona,43,19,15.0994425
+2025,9,Spanish Grand Prix,Spain,Barcelona,44,5,3.7310476
+2025,9,Spanish Grand Prix,Spain,Barcelona,5,12,8.164421
+2025,9,Spanish Grand Prix,Spain,Barcelona,55,18,14.158329
+2025,9,Spanish Grand Prix,Spain,Barcelona,6,9,3.396469
+2025,9,Spanish Grand Prix,Spain,Barcelona,63,4,6.6455846
+2025,9,Spanish Grand Prix,Spain,Barcelona,81,1,8.27179
+2025,9,Spanish Grand Prix,Spain,Barcelona,87,15,9.068074
+2025,10,Canadian Grand Prix,Canada,Montréal,1,2,4.1770678
+2025,10,Canadian Grand Prix,Canada,Montréal,10,20,12.866142
+2025,10,Canadian Grand Prix,Canada,Montréal,12,4,6.5738134
+2025,10,Canadian Grand Prix,Canada,Montréal,14,6,7.954759
+2025,10,Canadian Grand Prix,Canada,Montréal,16,8,4.1518817
+2025,10,Canadian Grand Prix,Canada,Montréal,18,18,11.634655
+2025,10,Canadian Grand Prix,Canada,Montréal,22,11,11.251955
+2025,10,Canadian Grand Prix,Canada,Montréal,23,10,7.5074496
+2025,10,Canadian Grand Prix,Canada,Montréal,27,13,10.499932
+2025,10,Canadian Grand Prix,Canada,Montréal,30,19,18.093805
+2025,10,Canadian Grand Prix,Canada,Montréal,31,15,11.538589
+2025,10,Canadian Grand Prix,Canada,Montréal,4,7,7.4653764
+2025,10,Canadian Grand Prix,Canada,Montréal,43,12,10.371899
+2025,10,Canadian Grand Prix,Canada,Montréal,44,5,5.680992
+2025,10,Canadian Grand Prix,Canada,Montréal,5,16,15.371102
+2025,10,Canadian Grand Prix,Canada,Montréal,55,17,13.7261305
+2025,10,Canadian Grand Prix,Canada,Montréal,6,9,8.972517
+2025,10,Canadian Grand Prix,Canada,Montréal,63,1,4.177788
+2025,10,Canadian Grand Prix,Canada,Montréal,81,3,5.167053
+2025,10,Canadian Grand Prix,Canada,Montréal,87,14,10.619537
+2025,11,Austrian Grand Prix,Austria,Spielberg,1,7,9.900793
+2025,11,Austrian Grand Prix,Austria,Spielberg,10,10,7.7871594
+2025,11,Austrian Grand Prix,Austria,Spielberg,12,9,12.101365
+2025,11,Austrian Grand Prix,Austria,Spielberg,14,11,13.459888
+2025,11,Austrian Grand Prix,Austria,Spielberg,16,2,6.840936
+2025,11,Austrian Grand Prix,Austria,Spielberg,18,16,17.750343
+2025,11,Austrian Grand Prix,Austria,Spielberg,22,18,18.77345
+2025,11,Austrian Grand Prix,Austria,Spielberg,23,12,8.924531
+2025,11,Austrian Grand Prix,Austria,Spielberg,27,20,18.237654
+2025,11,Austrian Grand Prix,Austria,Spielberg,30,6,11.8709135
+2025,11,Austrian Grand Prix,Austria,Spielberg,31,17,18.34242
+2025,11,Austrian Grand Prix,Austria,Spielberg,4,1,8.424081
+2025,11,Austrian Grand Prix,Austria,Spielberg,43,14,13.334987
+2025,11,Austrian Grand Prix,Austria,Spielberg,44,4,8.2771845
+2025,11,Austrian Grand Prix,Austria,Spielberg,5,8,7.6863313
+2025,11,Austrian Grand Prix,Austria,Spielberg,55,19,13.874702
+2025,11,Austrian Grand Prix,Austria,Spielberg,6,13,11.037849
+2025,11,Austrian Grand Prix,Austria,Spielberg,63,5,10.083704
+2025,11,Austrian Grand Prix,Austria,Spielberg,81,3,5.435496
+2025,11,Austrian Grand Prix,Austria,Spielberg,87,15,12.764766
+2025,12,British Grand Prix,United Kingdom,Silverstone,1,1,5.128522
+2025,12,British Grand Prix,United Kingdom,Silverstone,10,10,8.290917
+2025,12,British Grand Prix,United Kingdom,Silverstone,12,7,6.516096
+2025,12,British Grand Prix,United Kingdom,Silverstone,14,9,6.3139553
+2025,12,British Grand Prix,United Kingdom,Silverstone,16,6,1.8989153
+2025,12,British Grand Prix,United Kingdom,Silverstone,18,18,17.737494
+2025,12,British Grand Prix,United Kingdom,Silverstone,22,12,7.860786
+2025,12,British Grand Prix,United Kingdom,Silverstone,23,14,10.579681
+2025,12,British Grand Prix,United Kingdom,Silverstone,27,19,17.951633
+2025,12,British Grand Prix,United Kingdom,Silverstone,30,16,15.511194
+2025,12,British Grand Prix,United Kingdom,Silverstone,31,15,10.757037
+2025,12,British Grand Prix,United Kingdom,Silverstone,4,3,5.546933
+2025,12,British Grand Prix,United Kingdom,Silverstone,43,20,16.647263
+2025,12,British Grand Prix,United Kingdom,Silverstone,44,5,2.3065512
+2025,12,British Grand Prix,United Kingdom,Silverstone,5,17,16.876991
+2025,12,British Grand Prix,United Kingdom,Silverstone,55,11,10.413617
+2025,12,British Grand Prix,United Kingdom,Silverstone,6,13,11.853776
+2025,12,British Grand Prix,United Kingdom,Silverstone,63,4,5.126209
+2025,12,British Grand Prix,United Kingdom,Silverstone,81,2,3.5873795
+2025,12,British Grand Prix,United Kingdom,Silverstone,87,8,5.8663034
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,1,4,6.5434866
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,10,13,2.3290327
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,12,18,7.0109763
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,14,19,3.729574
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,16,3,4.7338037
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,18,20,0.43480596
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,22,7,4.3011627
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,23,5,5.2849903
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,27,14,3.3589277
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,30,9,4.1129947
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,31,11,2.9448583
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,4,1,4.385483
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,43,17,7.0603247
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,16,2.6561139
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,5,10,5.326082
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,55,15,4.3020253
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,6,8,7.4292507
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,63,6,3.8540645
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,81,2,5.19682
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,87,12,3.083405
+2025,14,Hungarian Grand Prix,Hungary,Budapest,1,8,6.729644
+2025,14,Hungarian Grand Prix,Hungary,Budapest,10,17,18.24559
+2025,14,Hungarian Grand Prix,Hungary,Budapest,12,15,16.452139
+2025,14,Hungarian Grand Prix,Hungary,Budapest,14,5,4.560618
+2025,14,Hungarian Grand Prix,Hungary,Budapest,16,1,6.650891
+2025,14,Hungarian Grand Prix,Hungary,Budapest,18,6,8.413377
+2025,14,Hungarian Grand Prix,Hungary,Budapest,22,16,16.44248
+2025,14,Hungarian Grand Prix,Hungary,Budapest,23,20,10.715343
+2025,14,Hungarian Grand Prix,Hungary,Budapest,27,19,17.522179
+2025,14,Hungarian Grand Prix,Hungary,Budapest,30,9,5.249212
+2025,14,Hungarian Grand Prix,Hungary,Budapest,31,18,18.465862
+2025,14,Hungarian Grand Prix,Hungary,Budapest,4,3,6.8918343
+2025,14,Hungarian Grand Prix,Hungary,Budapest,43,14,11.7621155
+2025,14,Hungarian Grand Prix,Hungary,Budapest,44,12,12.69953
+2025,14,Hungarian Grand Prix,Hungary,Budapest,5,7,5.019544
+2025,14,Hungarian Grand Prix,Hungary,Budapest,55,13,9.296768
+2025,14,Hungarian Grand Prix,Hungary,Budapest,6,10,6.1782627
+2025,14,Hungarian Grand Prix,Hungary,Budapest,63,4,9.4021015
+2025,14,Hungarian Grand Prix,Hungary,Budapest,81,2,5.937683
+2025,14,Hungarian Grand Prix,Hungary,Budapest,87,11,10.820291
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,1,3,1.7989136
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,10,14,6.902396
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,12,11,7.793706
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,14,10,8.438119
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,16,6,5.4555655
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,18,20,16.88408
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,22,12,5.286909
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,23,15,7.629487
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,27,17,12.71456
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,30,8,5.404022
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,31,18,15.039161
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,4,2,3.4402432
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,43,16,13.68885
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,44,7,5.4371114
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,5,13,6.7954907
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,55,9,3.4954424
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,6,4,4.6726184
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,63,5,4.9696736
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,81,1,3.821081
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,87,19,12.315735
+2025,16,Italian Grand Prix,Italy,Monza,1,1,3.0091512
+2025,16,Italian Grand Prix,Italy,Monza,10,19,15.024952
+2025,16,Italian Grand Prix,Italy,Monza,12,7,2.2256312
+2025,16,Italian Grand Prix,Italy,Monza,14,9,1.0771834
+2025,16,Italian Grand Prix,Italy,Monza,16,4,2.7194338
+2025,16,Italian Grand Prix,Italy,Monza,18,17,13.961783
+2025,16,Italian Grand Prix,Italy,Monza,22,10,2.4131584
+2025,16,Italian Grand Prix,Italy,Monza,23,14,1.8557427
+2025,16,Italian Grand Prix,Italy,Monza,27,12,6.099798
+2025,16,Italian Grand Prix,Italy,Monza,30,20,14.85553
+2025,16,Italian Grand Prix,Italy,Monza,31,15,6.5907583
+2025,16,Italian Grand Prix,Italy,Monza,4,2,1.0267025
+2025,16,Italian Grand Prix,Italy,Monza,43,18,13.855171
+2025,16,Italian Grand Prix,Italy,Monza,44,5,3.8470168
+2025,16,Italian Grand Prix,Italy,Monza,5,8,4.123416
+2025,16,Italian Grand Prix,Italy,Monza,55,13,3.5161307
+2025,16,Italian Grand Prix,Italy,Monza,6,16,14.1966305
+2025,16,Italian Grand Prix,Italy,Monza,63,6,2.364866
+2025,16,Italian Grand Prix,Italy,Monza,81,3,1.6596428
+2025,16,Italian Grand Prix,Italy,Monza,87,11,5.6567554
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,1,1,6.50338
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,10,18,19.227707
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,12,4,10.073992
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,14,11,13.7728195
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,16,10,6.94175
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,18,14,11.165591
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,22,6,11.445444
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,23,19,18.334074
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,27,17,18.133575
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,30,3,8.581343
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,31,20,17.329462
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,4,7,9.343696
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,43,16,18.60239
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,44,12,8.452794
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,5,13,12.697203
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,55,2,8.804133
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,6,8,10.064285
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,63,5,8.811416
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,81,9,9.633382
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,87,15,17.542267
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,1,2,2.9826627
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,10,18,15.158466
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,12,4,3.1019766
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,14,10,3.143788
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,16,7,3.884665
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,18,15,14.094051
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,22,13,8.999612
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,23,19,3.87729
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,27,11,2.2055106
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,30,12,5.2983813
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,31,17,15.324305
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,4,5,3.267497
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,43,16,7.711897
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,44,6,4.2878537
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,5,14,15.69045
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,55,20,5.474281
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,6,8,3.7246604
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,63,1,3.7502158
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,81,3,3.8624449
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,87,9,2.4816396
+2025,19,United States Grand Prix,United States,Austin,1,1,3.6344693
+2025,19,United States Grand Prix,United States,Austin,10,14,10.177472
+2025,19,United States Grand Prix,United States,Austin,12,7,7.4520774
+2025,19,United States Grand Prix,United States,Austin,14,10,5.4754386
+2025,19,United States Grand Prix,United States,Austin,16,3,4.5845375
+2025,19,United States Grand Prix,United States,Austin,18,18,14.977019
+2025,19,United States Grand Prix,United States,Austin,22,13,11.586843
+2025,19,United States Grand Prix,United States,Austin,23,19,14.077301
+2025,19,United States Grand Prix,United States,Austin,27,11,8.461138
+2025,19,United States Grand Prix,United States,Austin,30,12,9.330277
+2025,19,United States Grand Prix,United States,Austin,31,17,14.664444
+2025,19,United States Grand Prix,United States,Austin,4,2,5.1812906
+2025,19,United States Grand Prix,United States,Austin,43,15,8.571346
+2025,19,United States Grand Prix,United States,Austin,44,5,5.849186
+2025,19,United States Grand Prix,United States,Austin,5,16,12.994547
+2025,19,United States Grand Prix,United States,Austin,55,9,5.039464
+2025,19,United States Grand Prix,United States,Austin,63,4,5.2604556
+2025,19,United States Grand Prix,United States,Austin,81,6,5.271219
+2025,19,United States Grand Prix,United States,Austin,87,8,5.630257
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,1,5,3.0792325
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,10,18,16.837093
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,12,6,2.2328598
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,14,14,6.8773704
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,16,2,4.904695
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,18,19,16.767855
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,22,11,10.692808
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,23,17,16.774738
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,27,13,6.84802
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,30,15,9.967997
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,31,12,8.443805
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,4,1,0.4163058
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,43,20,16.597765
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,44,3,5.356167
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,5,16,15.732799
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,55,7,3.7787137
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,6,9,3.7468863
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,63,4,2.515587
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,81,8,4.3380737
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,87,10,3.6379108
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,1,16,11.882207
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,10,9,7.6019993
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,12,2,8.652303
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,14,11,11.009278
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,16,3,9.37983
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,18,14,7.506331
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,22,19,17.783651
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,23,12,9.843464
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,27,10,8.216401
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,30,7,9.911743
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,31,17,13.062862
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,4,1,7.39546
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,43,18,19.30691
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,44,13,10.978351
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,55,15,10.467468
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,6,5,9.789083
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,63,6,11.475999
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,81,4,8.216881
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,87,8,7.9999886
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,1,2,8.361471
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,10,10,8.751129
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,12,17,17.968464
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,14,7,6.8262014
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,16,9,6.6918344
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,18,12,11.539412
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,22,19,18.03229
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,23,16,19.045279
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,27,11,10.263695
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,30,6,8.569366
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,31,13,13.477953
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,4,1,8.604497
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,43,15,13.55368
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,44,20,18.30929
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,5,18,17.18262
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,55,3,8.53709
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,6,8,7.942997
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,63,4,5.969853
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,81,5,7.762479
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,87,14,15.570084
+2025,23,Qatar Grand Prix,Qatar,Lusail,1,3,7.101774
+2025,23,Qatar Grand Prix,Qatar,Lusail,10,9,8.067062
+2025,23,Qatar Grand Prix,Qatar,Lusail,12,5,6.0418234
+2025,23,Qatar Grand Prix,Qatar,Lusail,14,8,7.2462096
+2025,23,Qatar Grand Prix,Qatar,Lusail,16,10,7.014959
+2025,23,Qatar Grand Prix,Qatar,Lusail,18,19,17.545527
+2025,23,Qatar Grand Prix,Qatar,Lusail,22,16,12.942649
+2025,23,Qatar Grand Prix,Qatar,Lusail,23,15,4.0350113
+2025,23,Qatar Grand Prix,Qatar,Lusail,27,11,8.581519
+2025,23,Qatar Grand Prix,Qatar,Lusail,30,12,8.385492
+2025,23,Qatar Grand Prix,Qatar,Lusail,31,17,13.883502
+2025,23,Qatar Grand Prix,Qatar,Lusail,4,2,7.571294
+2025,23,Qatar Grand Prix,Qatar,Lusail,43,20,11.499345
+2025,23,Qatar Grand Prix,Qatar,Lusail,44,18,10.564373
+2025,23,Qatar Grand Prix,Qatar,Lusail,5,14,6.5772867
+2025,23,Qatar Grand Prix,Qatar,Lusail,55,7,6.40814
+2025,23,Qatar Grand Prix,Qatar,Lusail,6,6,7.2452164
+2025,23,Qatar Grand Prix,Qatar,Lusail,63,4,5.2953753
+2025,23,Qatar Grand Prix,Qatar,Lusail,81,1,6.676952
+2025,23,Qatar Grand Prix,Qatar,Lusail,87,13,7.9321322
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,1,1,1.6426247
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,10,19,9.144539
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,12,14,9.406815
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,14,6,3.7651002
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,16,5,4.5163865
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,18,15,6.235153
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,22,10,6.4856634
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,23,17,14.207914
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,27,18,15.7763405
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,30,13,7.4437575
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,31,8,5.778168
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,4,2,3.710175
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,43,20,14.915412
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,44,16,10.337349
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,5,7,4.8149166
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,55,12,9.6096945
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,6,9,4.1981874
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,63,4,5.4841924
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,81,3,6.701916
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,87,11,11.49448

@@ -10,7 +10,7 @@ Demonstrates that in-session performance signals can predict qualifying outcome.
 
 Phase 3 : Generalisation across circuits + hyper param training
 
-Phase 4 : Q1 Q2 Q3 analysis
+Phase 4 : Q1 Q2 Q3 / RaceDay analysis
 
 Phase 5 : Temporal Ensemble
 
