@@ -5,6 +5,9 @@ f1_cache/
 **/f1_cache/
 fastf1_cache/
 **/fastf1_cache/
+*.ff1pkl
+
+
 
 # =========================
 # Compressed files
@@ -37,3 +40,5 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+*.sqlite
