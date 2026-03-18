@@ -11,15 +11,13 @@ Demonstrates that in-session performance signals can predict qualifying outcome.
 Phase 3 : Generalisation across circuits + hyper param training
 
 Phase 4 : Fix data leaks and intro more valid features
+          FP1 FP2 FP3 / QDay analysis
 
-Phase 5 : Q1 Q2 Q3 / RaceDay analysis
+Phase 5 : Kalman Filter
 
-Phase 6 : Temporal Ensemble
+Phase 6 : Startegy layer : Cornering Analysis
 
-Phase 7 : Startegy layer
+Phase 7 : Driver Signature?
 
-Phase 8 : Driver Signature?
-
-Phase 9 : Trajectory Reconstruction & Kalman Filter 
-
+Phase 8 : Trajectory Reconstruction
 
