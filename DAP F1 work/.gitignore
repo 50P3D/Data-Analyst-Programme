@@ -47,6 +47,9 @@ ENV/
 Working directory/data_processed/f1_cache/
 **/f1_cache/
 
+# Claude
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
