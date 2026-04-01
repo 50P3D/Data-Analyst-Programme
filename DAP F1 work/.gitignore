@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Data files (large / raw)
+*.csv
+*.parquet
+*.json
+*.feather
+*.h5
+*.hdf5
+*.zip
+*.gz
+*.tar
+
+# Model artifacts
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.onnx
+
+# FastF1 cache
+Working directory/data_processed/f1_cache/
+**/f1_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
