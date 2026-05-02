@@ -13,11 +13,9 @@ Phase 3 : Generalisation across circuits + hyper param training
 Phase 4 : Fix data leaks and intro more valid features
           FP1 FP2 FP3 / QDay analysis
 
-Phase 5 : Kalman Filter
+Phase 5 : Kalman Filter + single corner analysis
 
-Phase 6 : Startegy layer : Cornering Analysis
+Phase 6 : Driver Signature?
 
-Phase 7 : Driver Signature?
-
-Phase 8 : Trajectory Reconstruction
+Phase 7 : Trajectory Reconstruction
 
